@@ -1,2 +1,3 @@
 # My_python_code
-Checkout my python code...
+Welcome to my PYTHON code dump!
+which I practice it daily
